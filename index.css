@@ -1,0 +1,39 @@
+h1{
+    color: red;
+}
+h2,a{
+    color: red;
+    font-style: italic;
+}
+a{
+    font-weight: bold;
+    
+
+}
+p{
+    color: rgb(128, 6, 6)
+}
+.OrderedList{
+    color: brown;
+    font-size: large;
+    font-weight: 500;
+    
+}
+.UnorderedList{
+    letter-spacing: 3px;
+    color: brown;
+    font-size: large;
+    font-weight: 500;
+}
+#strike{
+    text-decoration-line: line-through;
+    font-weight: bolder;
+}
+#highlight,a{
+    background-color: yellow;
+    font-weight: bolder;
+}
+#italic_underline{
+    font-style: italic;
+    text-decoration: underline;
+}
